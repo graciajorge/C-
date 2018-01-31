@@ -1,0 +1,61 @@
+CD
+Title: Beethoven Symphonies Nos. 5 & 8
+Major_Artist: Arturo Toscanini
+Playing_Time: 6820
+Price: 12.5
+Num_plays :0
+Rating:           
+Producer: Richard Mohr
+Num_tracks: 9
+"Allegro con brio" 711
+"Andante con moto" 852
+"Allegro" 437
+"Allegro" 825
+"Allegro vivace e con brio" 927
+"Allegretto scherzando" 341
+"Tempi di Menuetto" 443
+"Allegro vivace" 726
+"Lonore Overture No. 3, Op. 72a" 1311
+DVD
+Title: Fantasia
+Major_Artist: N/A
+Playing_Time: 125
+Price: 17.5
+Num_plays:0
+Rating:           
+Director: Walt Disney
+Producer: Walt Disney
+Num_supporting_Actors:0
+Wide_Screen:  true
+TV_Format:  true
+Num_special_features: 3
+Audio Commentaries by Roy E. Disney
+Rare Archival Interviews with Walt Disney
+"The Making of Fantasia" Featurette
+Num_Sound_options: 3
+THX
+DTS Digital Surround
+Dolby Digital 5.0
+VHS
+Title: Who Framed Roger Rabbit
+Major_Artist: Bob Hoskins
+Playing_Time: 104
+Price: 12.5
+Num_plays: 0
+Rating:           
+Director: Robert Zemeckis
+Producer: Steven Spielberg
+Num_supporting_Actors: 3
+Christopher Lloyd
+Charles Flescher
+Joana Cassidy
+Num_Trailers: 0
+Casette
+Title: Music for 1320
+Major_Artist: COSC 1320
+Playing_Time: 120
+Price: 100
+Num_plays: 0
+Rating: 10
+Producer: CS
+Num_tracks: 1
